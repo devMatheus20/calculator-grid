@@ -1,7 +1,7 @@
 # Calculator  🖩
 
 
-<img src="./calculator.png" width="400px" alt="imagem-calculator">
+<img src="./img/calculator.png" width="400px" alt="imagem-calculator">
 
 
 > Essa é uma calculadora simples feita com a intenção de treinar o Display-Grid e o JavaScript Web.
