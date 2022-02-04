@@ -1,10 +1,12 @@
 # Calculator  🖩
 
 
-<img src="./calculator.png" border-radius="10px" alt="imagem-calculator">
+<img src="./calculator.png" width="400px" alt="imagem-calculator">
 
 
 > Essa é uma calculadora simples feita com a intenção de treinar o Display-Grid e o JavaScript Web.
+
+Confira a aplicação: <a href="https://devmatheus20.github.io/calculator-grid/"> https://devmatheus20.github.io/calculator-grid/
 
 ## 🚀 Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,5 +35,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
 Made with ♥ by Matheus Santos :wave: <a href="https://www.linkedin.com/in/matheus-santos-souza">Get in touch!</a>
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
