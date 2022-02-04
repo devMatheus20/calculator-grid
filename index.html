@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora - Grid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <section class="calculator grid">
+            <div id="input-value" class="display"></div>
+              <button onclick="clearInput()" class="item clear botton-top">AC</button>
+              <button onclick="invertValue()" class="item plus-minus botton-top">+/-</button>
+              <button onclick="insertValue('%')" class="item percent botton-top">%</button>
+              <button onclick="insertValue('/')" class="item division botton-right">÷</button>
+
+              <button onclick="insertValue('7')" class="item seven botton-numbers">7</button>
+              <button onclick="insertValue('8')" class="item eight botton-numbers">8</button>
+              <button onclick="insertValue('9')"class="item nine botton-numbers">9</button>
+              <button onclick="insertValue('*')" class="item multiplication botton-right">×</button>
+
+              <button onclick="insertValue('4')" class="item four botton-numbers">4</button>
+              <button onclick="insertValue('5')" class="item five botton-numbers">5</button>
+              <button onclick="insertValue('6')" class="item six botton-numbers">6</button>
+              <button onclick="insertValue('-')" class="item minus botton-right">-</button>
+
+              <button onclick="insertValue('1')" class="item one botton-numbers">1</button>
+              <button onclick="insertValue('2')" class="item two botton-numbers">2</button>
+              <button onclick="insertValue('3')" class="item three botton-numbers">3</button>
+              <button onclick="insertValue('+')" class="item plus botton-right">+</button>
+
+              <button onclick="insertValue('0')" class="item zero botton-numbers">0</button>
+              <button onclick="insertValue('.')" class="item point botton-numbers">.</button>
+              <button onclick="calculate()" class="item equal botton-right">=</button>
+
+
+        </section>
+    </div>
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
